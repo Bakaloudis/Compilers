@@ -1,0 +1,9 @@
+program exams
+        declare x,y,v;
+        x:=3;
+	incase
+            when(x<5):
+               x:=x+1
+        endincase;
+        print x
+endprogram

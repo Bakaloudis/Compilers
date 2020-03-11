@@ -1,0 +1,15 @@
+program exams
+        declare x,y,b;
+        x:=3;
+        b:=5;
+        if(x>b) then
+            y:=20
+        else
+            if(x<b)  then
+              y:=4;
+              b:=6
+            endif
+        endif;
+
+        print y
+endprogram

@@ -1,0 +1,11 @@
+program exams
+
+	declare q,z,a,x,y,s,c;
+        x:=4;
+        a:=2;
+        y:=1;
+        z:=6;
+        q:=3;
+        s:=-x + (q*(y + (-z)) * x);
+        print s
+endprogram

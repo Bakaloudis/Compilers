@@ -1,0 +1,10 @@
+program exams
+        declare x,y,b;
+        x:=3;
+        y:=5;
+	dowhile
+          x:=x+1
+        enddowhile(x<y)
+      
+       print x
+endprogram

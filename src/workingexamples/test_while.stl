@@ -1,0 +1,6 @@
+program exams
+        declare x,y,z,w;
+        while(x<y)
+            z:=w
+        endwhile
+endprogram

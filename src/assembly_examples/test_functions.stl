@@ -1,0 +1,15 @@
+program exams
+        declare x,y,b,d,string,fa,c;
+	function three()
+           d:=3;
+           return d
+        endfunction;
+        function two(in fa)
+           d:=5;
+           return d
+        endfunction;
+       b:=two(in fa);
+       c:=three();
+       print b;
+       print c
+endprogram

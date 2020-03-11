@@ -1,0 +1,13 @@
+program exams
+        declare x,y,b;
+        x:=3;
+        y:=4;
+	forcase
+            when (x>y):
+                x:=x+1
+            default: x:=x+1
+            enddefault
+        endforcase
+      
+       print x
+endprogram

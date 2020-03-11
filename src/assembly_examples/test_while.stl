@@ -1,0 +1,8 @@
+program exams
+        declare x,y,z,w;
+        x:=3;
+        while(x<4)
+            x:=5
+        endwhile;
+        print x
+endprogram

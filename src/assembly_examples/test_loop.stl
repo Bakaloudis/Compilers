@@ -1,0 +1,14 @@
+program exams
+        declare x,y,b;
+        x:=3;
+        y:=4;
+	loop 
+          if(x=6) then 
+              exit
+          endif;
+          x:=x+1;
+           
+        endloop;
+      
+       print x
+endprogram

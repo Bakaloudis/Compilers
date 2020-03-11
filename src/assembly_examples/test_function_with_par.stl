@@ -1,0 +1,10 @@
+program exams
+        declare x,y,b,d,string,fa,c;
+        string:=2;
+	function three(in sad)
+           d:=string;
+           return d
+        endfunction;
+       c:=three(in string);
+       print c
+endprogram
